@@ -3,6 +3,10 @@ body {
  text-align: center;
 }
 
+code {
+ white-space: nowrap;
+}
+
 #wrapper {
  text-align: left;
  width: 620px;
